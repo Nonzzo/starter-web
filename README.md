@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how Git and GitHub work together. I also need to use the diff tool.Updating for emergency fix after stashing. Adding a line for rebasing example
+This is a simple website project for showing how Git and GitHub work together. I also need to use the diff tool.Updating for emergency fix after stashing. Adding a line for rebasing example, themn more changes from myfeature branch
 
 ## Introduction
 
